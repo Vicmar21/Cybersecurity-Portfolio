@@ -1,5 +1,4 @@
 📁 Cybersecurity-Portfolio/
-│
 ├── 📄 README.md (Descripción general de tu portafolio)
 │
 ├── 📁 SOC-Analyst-Projects/
